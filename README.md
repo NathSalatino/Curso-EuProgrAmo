@@ -1,4 +1,4 @@
 # Curso Eu ProgrAmo
- Projeto feito no curso Eu ProgrAmo da PrograMaria.
- Site sobre Ada Lovelace, uma das principais mulheres da técnologia.
- Utilizamos HTML, CSS e JavaScript.
+ <h2>Projeto feito no curso Eu ProgrAmo da PrograMaria.</h2>
+ <p>Site sobre Ada Lovelace, uma das principais mulheres da técnologia.</p>
+ <p>Utilizamos HTML, CSS e JavaScript.</p>
