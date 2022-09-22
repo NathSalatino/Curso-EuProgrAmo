@@ -3,5 +3,5 @@
  <p>Site sobre Ada Lovelace, uma das principais mulheres da tecnologia.</p>
  <p>Utilizamos HTML, CSS e JavaScript.</p>
  
- <h3>Veja o site pronto:</h3>
+ <h3>Confira o site finalizado:</h3>
  <a href="https://nathsalatino.github.io/Curso-EuProgrAmo" target="_blank">Ada Lovelace</a>
